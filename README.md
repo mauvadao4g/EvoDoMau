@@ -21,6 +21,11 @@ Este repositório contém scripts automatizados para a instalação e configura�
 
 ## 🚀 Como Instalar
 
+## Install Inline
+```bash
+bash <(wget -qO- https://raw.githubusercontent.com/mauvadao4g/EvoDoMau/refs/heads/main/install.sh)
+```
+
 ### 1. Clonar o Repositório
 ```bash
 git clone https://github.com/MAUVADAO/EvoDoMau.git
